@@ -1,6 +1,6 @@
 <h1>Electrical_Grid_Stability_Simulated_Data_Data_Processing_and_Modeling.ipynb</h1>
 
-The dataset named "Data_for_UCI_named" is downloaded from UCI Machine Learning Repository. I have performed data pre-processing on the dataset and performed classification using three classifiers, named:
+The dataset named "Data_for_UCI_named" is downloaded from UCI Machine Learning Repository. I have performed **data pre-processing & modeling** on the dataset and used three classifiers for classification purpose, named:
 
 1. Naive Bayes Classifier
 2. Logistic Regression Classifier
@@ -10,7 +10,7 @@ Accuracy, Precision, Recall, and F1 score have been also calculated.
 
 <h1>Covid19_Analysis_and_Visualization.ipynb</h1>
 
-This work presents the analysis and visualization to measure the spread of COVID19 per given region. Coronavirus(COVID19 or SARS-CoV-2) has recently caused major worldwide concern. As the number of coronavirus cases reportedly increases, the spread of COVID19 is a serious threat to global health.
+This work presents the **analysis and visualization** to measure the spread of COVID19 per given region. Coronavirus(COVID19 or SARS-CoV-2) has recently caused major worldwide concern. As the number of coronavirus cases reportedly increases, the spread of COVID19 is a serious threat to global health.
 
 Data Pre-Processing steps include:
 
