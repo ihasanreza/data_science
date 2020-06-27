@@ -18,7 +18,7 @@ The dataset named "Data_for_UCI_named" is downloaded from UCI Machine Learning R
 Accuracy, Precision, Recall, and F1 score have been also calculated.
 
 <h1>Python_classes_Numpy_arrays_Pandas_manipulation.ipynb & Data_manipulation_and_visualization.ipynb</h1>
-These two notebooks deal with the use of Python to implement the concepts of:
+These two notebooks deal with the use of Python to implement the concept of:
 
 1. Classes
 2. Numpy arrays
