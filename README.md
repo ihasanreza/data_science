@@ -16,3 +16,13 @@ Data Pre-Processing steps include:
 
 1. Reading the data from Github repository containing daily total cases of confirmed, death and recovered cases per location as provided by the Johns Hopkins University Center for Systems Science and Engineering (JHU CSSE).
 2. Fixing region name and concatenating country and province name to one column “region”. Then, clearing wrong characters within the dataset.
+
+<h1>Python_classes_Numpy_arrays_Pandas_manipulation.ipynb & Data_manipulation_and_visualization.ipynb</h1>
+These two notebooks deal with the use of Python to implement the concepts of:
+
+1. Classes
+2. Numpy arrays
+3. Pandas manipulation
+4. Scatter plot and bar chart
+
+Dataset used is **Data_for_UCI_named**.
