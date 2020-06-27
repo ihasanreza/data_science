@@ -6,6 +6,7 @@ Data Pre-Processing steps include:
 
 1. Reading the data from Github repository containing daily total cases of confirmed, death and recovered cases per location as provided by the Johns Hopkins University Center for Systems Science and Engineering (JHU CSSE).
 2. Fixing region name and concatenating country and province name to one column “region”. Then, clearing wrong characters within the dataset.
+3. The Python script allows us to generate a visual plot per region to get initial insights about the data. The wide majority of cases are found in USA but different plots were extracted for all three categories.
 
 <h1>Electrical_Grid_Stability_Simulated_Data_Data_Processing_and_Modeling.ipynb</h1>
 
