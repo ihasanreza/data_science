@@ -1,6 +1,6 @@
 <h1>Covid19_Analysis_and_Visualization.ipynb</h1>
 
-This work presents the **analysis and visualization** to measure the spread of COVID19 per given region. Coronavirus(COVID19 or SARS-CoV-2) has recently caused major worldwide concern. As the number of coronavirus cases reportedly increases, the spread of COVID19 is a serious threat to global health.
+This work presents the **analysis and visualization** to measure the spread of COVID-19 region-wise. Coronavirus (COVID-19 or SARS-CoV-2) has recently caused major worldwide problems. As the number of coronavirus cases reportedly increases, the spread of COVID-19 turns out to be a serious threat to global health.
 
 Data Pre-Processing steps include:
 
