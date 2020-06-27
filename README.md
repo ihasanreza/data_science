@@ -9,7 +9,7 @@ Data Pre-Processing steps include:
 
 <h1>Electrical_Grid_Stability_Simulated_Data_Data_Processing_and_Modeling.ipynb</h1>
 
-The dataset named "Data_for_UCI_named" is downloaded from UCI Machine Learning Repository. I have performed **data pre-processing & modeling** on the dataset and used three classifiers for classification purpose, named:
+The dataset named "Data_for_UCI_named.csv" is downloaded from UCI Machine Learning Repository. I have performed **data pre-processing & modeling** on the dataset and used three classifiers for classification purpose, named:
 
 1. Naive Bayes Classifier
 2. Logistic Regression Classifier
@@ -25,4 +25,4 @@ These two notebooks deal with the use of Python to implement the concept of:
 3. Pandas manipulation
 4. Scatter plot and bar chart
 
-Dataset used is **Data_for_UCI_named**.
+Dataset used is **Data_for_UCI_named.csv**.
